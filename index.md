@@ -1,9 +1,16 @@
 ## Overview
-Over the course of my time at Southern New Hampshire University, I have learned how to program in multiple languages and using multiple technologies. The concepts I have learned have allowed me to be able to quickly and easily learn new technologies as I am exposed to them, as many times the courses required a completed project in a new and previously unused technology to be finished within eight weeks or less.
+Over the course of my time at Southern New Hampshire University, I have learned how to program in multiple languages and using multiple technologies. The concepts I have learned have allowed me to be able to quickly and easily learn new technologies as I am exposed to them, as many times the courses required a completed project in a new and previously unused technology to be finished within eight weeks or less. 
+
+During my education, I have worked on projects that have exposed me to group environments, including collaborative projects using multiple different source control programs, especially focusing on Git, but also Azure DevOps Server. I have developed a game for a class on a team of four people using Unreal Engine and C#. I have written code reviews of multiple projects, including at least two separate ones for the OpenGL project in this portfolio. 
+
+The progress on my projects throughout the courses have shown some advancement in my abilities as a programmer, as shown with some of the advancements in these projects. The java project especially shows a more advanced knowledge of using lists, and the C++ program shows a better use of reusable functions and structures. While I do not currently have any MySQL-based projects in my portfolio, I have significantly advanced my understanding of join queries over the course of my education as well.
+
+The most important part of my journey has been advancing security and testing on my code. I have learned to think in a way that allows me to write tests before and during coding to help reduce the risk of errors in the code, and to try to break things and make sure the code handles errors without crashing or being vulnerable to security flaws. Focusing on security and testing from the start of a project helps make sure the software I produce is of the best quality it can be, and helps prevent having to rework software because of poor planning.
 
 The projects I have chosen for my portfolio have been selected to broadcast a wide variety of the technologies and skills I have learned during my education. I intentionally chose projects in multiple languages, specifically Python, C++, and Java, and different formats, a web-based project, a command-line based project, and a GUI project. I also tried to include different technologies used in these projects, like OpenGL, MongoDB, Dash and Jupyter. 
 
 The first project in this portfolio is a command-line Java application designed to manage a cruise company’s ships, routes, and passengers. The second project in this portfolio is in C++, and is a three-dimensional scene drawn using the OpenGL libraries. The third project in the portfolio is a Python webpage, designed with Dash, Jupyter, and MongoDB. 
+
 
 ## [Project One - Java Command Line - Cruise Ship](https://github.com/bddarwin/java-cruise-planner)
 
