@@ -1,5 +1,3 @@
-# Benjamin Darwin
-
 ## Overview
 Over the course of my time at Southern New Hampshire University, I have learned how to program in multiple languages and using multiple technologies. The concepts I have learned have allowed me to be able to quickly and easily learn new technologies as I am exposed to them, as many times the courses required a completed project in a new and previously unused technology to be finished within eight weeks or less.
 
