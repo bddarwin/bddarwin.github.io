@@ -11,6 +11,9 @@ The projects I have chosen for my portfolio have been selected to broadcast a wi
 
 The first project in this portfolio is a command-line Java application designed to manage a cruise company’s ships, routes, and passengers. The second project in this portfolio is in C++, and is a three-dimensional scene drawn using the OpenGL libraries. The third project in the portfolio is a Python webpage, designed with Dash, Jupyter, and MongoDB. 
 
+## [Code Review](https://www.youtube.com/watch?v=5rPW7-euKok)
+
+This code review describes the projects in detail and the improvements I originally planned to make over the course of the development of this portfolio.
 
 ## [Project One - Java Command Line - Cruise Ship](https://github.com/bddarwin/java-cruise-planner)
 
