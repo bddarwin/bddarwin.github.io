@@ -32,7 +32,7 @@ September 2021
 
 ### Certified Pharmacy Technician (CPhT)
 June 2015   
-*[Pharmacy Technician Certification Board](https://www.ptcb.org/)*
+*[Pharmacy Technician Certification Board](https://www.credly.com/badges/092390a5-2577-4886-aee9-a1722b24c427/public_url)*
 
 # [School Projects](/snhu)
 
