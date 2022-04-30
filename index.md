@@ -1,7 +1,9 @@
-# Contact Information
-🏠: Philadelphia, PA   
-📞: (570) 807-7958  
-📧: bddarwin@gmail.com
+# About Me
+|Contact Information  | Social Media |
+|---------------------|--------------|
+|🏠: Philadelphia, PA |[LinkedIn](https://www.linkedin.com/in/bddarwin/)|
+|📞: (570) 807-7958   |              |
+|📧: bddarwin@gmail.com|               |
 
 # Professional Experience
 ### 🖥️ Software Engineering Intern
