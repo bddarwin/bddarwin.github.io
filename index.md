@@ -1,7 +1,7 @@
 # Contact Information
-:house:: Philadelphia, PA   
+🏠: Philadelphia, PA   
 📞: (570) 807-7958  
-:email:: bddarwin@gmail.com
+📧: bddarwin@gmail.com
 
 # Professional Experience
 ### 🖥️ Software Engineering Intern
@@ -11,7 +11,7 @@ March 2022 to Present
 - HIPAA compliance
 - Spring framework
 
-### :pill: Lead Pharmacy Technician
+### 💊 Lead Pharmacy Technician
 *Walmart*, Lehighton, PA  
 February 2018 - March 2022
 - Supervised a team of 8 pharmacy technicians and cashiers and coordinated day-to-day assignments, employee schedules, and performance reviews. 
@@ -19,7 +19,7 @@ February 2018 - March 2022
 - Maintained drug inventory levels by ordering necessary medications and supplies.
 - Administered vaccines to patients
 
-### :pill: Certified Pharmacy Technician
+### 💊 Certified Pharmacy Technician
 *Walmart*, Lehighton, PA & Orlando, FL  
 May 2013 - February 2022
 
