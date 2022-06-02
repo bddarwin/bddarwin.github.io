@@ -5,9 +5,16 @@
 🔗: [LinkedIn](https://www.linkedin.com/in/bddarwin/)
 
 # Professional Experience
+### 🖥️ Software Engineer II
+*Sam's Club*, Bentonville, AR
+May 2022 to Present
+- Develop Java applications
+- HIPAA compliance
+- Spring framework
+- 
 ### 🖥️ Software Engineering Intern
 *Walmart*, Bentonville, AR  
-March 2022 to Present
+March 2022 to May 2022
 - Develop Java applications
 - HIPAA compliance
 - Spring framework
