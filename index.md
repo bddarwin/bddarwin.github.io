@@ -1,5 +1,5 @@
 # About Me
-🏠: Philadelphia, PA  
+🏠: Bentonville, AR  
 📞: (570) 807-7958  
 📧: bddarwin@gmail.com  
 🔗: [LinkedIn](https://www.linkedin.com/in/bddarwin/)
